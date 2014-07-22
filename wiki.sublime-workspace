@@ -1,0 +1,1122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ap",
+				"apt-get"
+			],
+			[
+				"cre",
+				"create_auth"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"page",
+				"pageId"
+			],
+			[
+				"co",
+				"contributors"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"rep",
+				"replacementItem"
+			],
+			[
+				"dra",
+				"draggedItem"
+			],
+			[
+				"recie",
+				"received"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"thi",
+				"thisRow"
+			],
+			[
+				"row",
+				"rowSplit"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"sc",
+				"schemaFile"
+			],
+			[
+				"api",
+				"apiResponse"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"pag",
+				"pageContent"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"a",
+				"attrs"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"fi",
+				"fieldWidth"
+			],
+			[
+				"la",
+				"labelWidth"
+			],
+			[
+				"sch",
+				"schemaFile"
+			],
+			[
+				"lay",
+				"layoutFile"
+			],
+			[
+				"par",
+				"partialsMap"
+			],
+			[
+				"t",
+				"tAttrs"
+			],
+			[
+				"is",
+				"isPrimitive"
+			],
+			[
+				"i",
+				"angular.isDefined	AngularJS"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"A",
+				"Addresses"
+			],
+			[
+				"p",
+				"phones"
+			],
+			[
+				"ins",
+				"insertedId"
+			],
+			[
+				"gt",
+				"gretVal"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"per",
+				"personModel"
+			],
+			[
+				"ass",
+				"assertTrue"
+			],
+			[
+				"neo",
+				"neo4j"
+			],
+			[
+				"tes",
+				"testFn"
+			],
+			[
+				"St",
+				"staticRoutes"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"gr",
+				"graph"
+			],
+			[
+				"delete",
+				"deleteVertex"
+			],
+			[
+				"vet",
+				"vertexDef"
+			],
+			[
+				"up",
+				"updatedData"
+			],
+			[
+				"verte",
+				"vertex"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"o",
+				"outVertices"
+			],
+			[
+				"edg",
+				"edgeData"
+			],
+			[
+				"edge",
+				"edgeDefn"
+			],
+			[
+				"vert",
+				"vertex"
+			],
+			[
+				"edgeD",
+				"edgeData"
+			],
+			[
+				"def",
+				"defn"
+			],
+			[
+				"ver",
+				"vertex"
+			],
+			[
+				"de",
+				"defn"
+			],
+			[
+				"do",
+				"doModel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WikiExtractor.py",
+			"settings":
+			{
+				"buffer_size": 22218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AA/wiki_00",
+			"settings":
+			{
+				"buffer_size": 27443,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/nikhil/ws/mids/w205/Assignment1/Assignment1.py",
+			"settings":
+			{
+				"buffer_size": 2860,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 111.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/tmp/a.xml",
+		"/home/nikhil/ws/mids/w205/project/AA/wiki_00",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/puppet/install.sh",
+		"/home/nikhil/.ssh/srd.pem",
+		"/home/nikhil/homemonitor.sh",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/.gitignore",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/Gemfile",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/puppet/default.pp",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/INSTALL.md",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/puppet/install.sh",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/Vagrantfile",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/ws/medycation-api/.ruby-version",
+		"/run/user/nikhil/gvfs/sftp:host=192.168.1.115,user=nik/home/nik/apps/setup.sh",
+		"/tmp/check.sh",
+		"/tmp/Vagrantfile",
+		"/home/nikhil/ws/mids/w205/Assignment3/sample_credentials.py",
+		"/home/nikhil/ws/mids/w205/Assignment3/stream_san_francisco.py",
+		"/home/nikhil/ws/mids/w205/Assignment3/credentials.py",
+		"/home/nikhil/ws/medycation/medycation-api/Vagrantfile",
+		"/home/nikhil/ws/medycation/medycation-api/Dockerfile",
+		"/home/nikhil/ws/medycation/medycation-api/Cheffile",
+		"/home/nikhil/ws/medycation/medycation-api/manifests/default.pp",
+		"/home/nikhil/ws/medycation/medycation-api/Vagrantfile_chef",
+		"/home/nikhil/ws/medycation/medycation-api/Puppetfile",
+		"/home/nikhil/ws/medycation/medycation-api/Rakefile",
+		"/home/nikhil/ws/medycation/medycation-api/Gemfile",
+		"/home/nikhil/Downloads/NikhilAssignment1.py",
+		"/home/nikhil/ws/mids/w205/Assignment1/Nikhil-Assignment1.py",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/data.csv",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/op/1_725315",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/op/2_787957",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/op/1_711277",
+		"/home/nikhil/ws/mids/w205/Assignment1/page_users.txt",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/st.sh",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/station.csv",
+		"/home/nikhil/ws/mids/w209/Assignment2/ws/WeatherData/test/op/1_711277",
+		"/home/nikhil/Dropbox/swaparea/st.sh",
+		"/home/nikhil/ws/catalina/cameopaas/cameopaas/api.py",
+		"/home/nikhil/ws/catalina/cameopaas/cameopaas/workers/install_utils.py",
+		"/home/nikhil/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/nikhil/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/nikhil/ws/mids/w205/Assignment1/pages.txt",
+		"/home/nikhil/ws/catalina/cameopaas/cameopaas/security.py",
+		"/home/nikhil/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nikhil/Documents/MIDS/W205/wikiparse.py",
+		"/home/nikhil/Dropbox/Documents/MIDS/W209/ASsignment 1",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/main.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/server/Routes.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.main/gradlew",
+		"/tmp/a.html",
+		"/home/nikhil/Documents/Catalina/Arch/MediaExecution/HTML/index.html",
+		"/tmp/trash.html",
+		"/tmp/sort.html",
+		"/tmp/index.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/app/scripts/directives/main.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/system/fieldLayout.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/app/bower_components/angular-ui/README.md",
+		"/tmp/prj/app/index.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/bower.json",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/app/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/.gitignore",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/.sublime/web.sublime-project",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/.sublime/ui.sublime-project",
+		"/home/nikhil/ws/hacks/shool/net.shool.ui/.gitattributes",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/notes.txt",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/system/newController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/system/listController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/newController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/users/newController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/system/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/pageTemplate.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/shoolui/module.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/BaseHTTPHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/listController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/models/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/users/pageTemplate.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/ui/module.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/users/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/users/newBody.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/users/ApiHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/newController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/newBody.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/PartialsHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/Partialate.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/pages/pageTemplate.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/pages/ApiHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/pages/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/fieldLayout.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/metaSchema.json",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/systemmodels/module.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/systemmodels/template.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/bs.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/ApiHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/pageTemplate.html",
+		"/home/nikhil/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/modules/codemirror/ui-codemirror.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/listBody.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/listController.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/static/lib/angular/angular-scenario.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/system/models/listPage.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/gradle.properties",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/bin/main.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/gradlew",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/gradle/vertx.gradle",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/mod.json",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/schema.json",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/page.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/bin/pages/PageHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/layout.html",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/schema2.json",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/lib/Class.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/PageHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/core/tasks.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/routes/BaseHTTPHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/handlers/StaticRoutesHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/routes/StaticRoutesHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/routes/Handler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/lib/underscore.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/core/q.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/lib/tasks.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/server/HTTPHandler.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/pages/controller.cjs",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/web/modules/bs.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/server/Server.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/routes/StaticRoutes.js",
+		"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/net/Server.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources/",
+			"/home/nikhil/ws/hacks/shool/net.shool.web/src/main/resources",
+			"/home/nikhil/ws/shool/net.shool.web/src",
+			"/home/nikhil/ws/shool",
+			"/home/nikhil/ws/shool/src",
+			"/home/nikhil/ws/shool/net.shool.module-template/src",
+			"/home/nikhil/ws/shool/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"output",
+			"process_data",
+			"WikiDocument",
+			"clean",
+			"main",
+			"main(",
+			"WikiDocument",
+			"<doc",
+			"ruby",
+			"libmy",
+			"dev",
+			"\"",
+			"13.10",
+			"04",
+			"trusty",
+			"rails",
+			"rbx-2.2.7 ",
+			"1.9.3",
+			"'",
+			"auth",
+			"rbx-2.2.7",
+			"2.2.7",
+			"2.1.2",
+			"sols",
+			"2.1.2",
+			"2.0.0-p247",
+			",",
+			"userId",
+			"	",
+			"contributorId",
+			"id",
+			"\\t",
+			"pyth",
+			"gradle",
+			"<span style=\"font-size: 13px; line-height: 1.231;\">",
+			"</a>",
+			"layoutrows",
+			"fieldro",
+			"bssssssssssssss",
+			"$comp",
+			"###################################################",
+			"###########################################",
+			"deleteRow",
+			"fieldRow master",
+			"row=\"12\"",
+			"button",
+			"template",
+			"contr",
+			"hr",
+			"toBeDroppedItem",
+			"ui.",
+			">\n",
+			"placeHolder",
+			">\n",
+			"placeHolder",
+			"draggedItem",
+			"			\n",
+			"isPrimitiveArray",
+			"fieldRow",
+			"bower_components",
+			"/lib/codemirror",
+			"href",
+			"/lib/codemirror",
+			"\n      ",
+			"fieldsConnector",
+			"        $( \"#sourceFields, #layoutRows\" ).sortable({\n          connectWith: \".fieldsConnector\",\n          snapMode: \"inner\",\n          hoverClass: \"hover\",\n\n        }).disableSelection();\n",
+			"connectedSortable",
+			"sortable2",
+			"sortable1",
+			"ul",
+			"{\n",
+			"ul",
+			"li",
+			"ui-state-default",
+			"Item",
+			"able, #xdraggable\" ).draggable({\n        connectToSortable: \"#xsortable\",\n        helper: \"clone\",\n        // revert: \"invalid\"\n      });",
+			"li",
+			"col-sm",
+			"md",
+			"ui-sortable-helper",
+			"netshooluiApp",
+			"        \n",
+			"angular-",
+			"stringArray",
+			"class=\"active\"",
+			"li",
+			",\n",
+			"$window",
+			"$location",
+			"sysmod",
+			"sysmodels",
+			"this.config.resource",
+			"config.resource",
+			"system/models",
+			"body",
+			"apiResponse",
+			"xui-codemirror x",
+			"model | json",
+			"model",
+			"setValue",
+			"controller",
+			"data",
+			"..",
+			"scrollspy",
+			"scroll",
+			"scrollspy",
+			"scrollpsy",
+			"camel",
+			"getPagePartial",
+			"t.",
+			"HTTPHandler",
+			"BaseHTTPHandler",
+			"HTTPHandler",
+			"config",
+			"$http",
+			"runModArgs",
+			"console",
+			"btn",
+			"			console.log('Save Clicked1', $scope.swap)\n",
+			"button",
+			"\\\\\\n",
+			"ctxt",
+			"value",
+			"console.log",
+			"type=\"button\" ",
+			"console.log",
+			"Label",
+			"label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"rbx-head",
+			"rbx-2.2.7",
+			"2.1.1",
+			"rbx-2.2.7",
+			"2.2.7",
+			"\\n",
+			"    ",
+			"",
+			"xcol-sm",
+			"sm",
+			"self.config.resource",
+			"this.config.resource",
+			"models/system",
+			"/lib/codemirror/mode",
+			"\\n",
+			"field",
+			"//console.log",
+			"",
+			"title",
+			"col-sm-7",
+			"col-sm-5",
+			"'",
+			"smodel.type",
+			"smodel_",
+			"smodel",
+			"smodel.type",
+			"tAttrs.fqn",
+			"]",
+			"[",
+			"\"]",
+			"[\"",
+			"\", \"",
+			"\":\"",
+			"[\"",
+			"\", \"",
+			"\":\"",
+			"",
+			"body",
+			"console.log",
+			"//console.log",
+			"jasmine-1.3.1",
+			"",
+			"web",
+			"moduletemplate",
+			"net.shool.launcher",
+			"net.shool.module-template",
+			"",
+			"$execDir/",
+			"execDir/",
+			"runtime"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WikiExtractor.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22140,
+								22140
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9911.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AA/wiki_00",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1108,
+								1108
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/nikhil/ws/mids/w205/Assignment1/Assignment1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wiki.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"scripts/directives/main.js"
+			],
+			[
+				"unres",
+				"styles/unresponsive.css"
+			],
+			[
+				"ma",
+				"scripts/controllers/main.js"
+			],
+			[
+				"bs",
+				"main/resources/static/modules/bs.js"
+			],
+			[
+				"ro",
+				"main/resources/server/Routes.js"
+			],
+			[
+				"hand",
+				"main/resources/handlers/system/models/Handler.js"
+			],
+			[
+				"base",
+				"main/resources/handlers/BaseHTTPHandler.js"
+			],
+			[
+				"parit",
+				"main/resources/pages/Partialate.js"
+			],
+			[
+				"rout",
+				"main/resources/server/Routes.js"
+			],
+			[
+				"newb",
+				"main/resources/handlers/system/models/newBody.html"
+			],
+			[
+				"newc",
+				"main/resources/handlers/system/models/newController.cjs"
+			],
+			[
+				"http",
+				"main/resources/handlers/BaseHTTPHandler.js"
+			],
+			[
+				"parti",
+				"main/resources/pages/Partialate.js"
+			],
+			[
+				"new",
+				"main/resources/handlers/system/models/newPage.html"
+			],
+			[
+				"htt",
+				"src/main/resources/handlers/BaseHTTPHandler.js"
+			],
+			[
+				"mod",
+				"src/main/resources/mod.json"
+			],
+			[
+				"schem",
+				"src/main/resources/pages/schema.json"
+			],
+			[
+				"la",
+				"src/main/resources/pages/layout.html"
+			],
+			[
+				"page",
+				"net.shool.web/bin/pages/PageHandler.js"
+			],
+			[
+				"sche",
+				"src/main/resources/pages/schema2.json"
+			],
+			[
+				"class",
+				"src/main/resources/lib/Class.js"
+			],
+			[
+				"pageh",
+				"src/main/resources/pages/PageHandler.js"
+			],
+			[
+				"contr",
+				"src/main/resources/pages/controller.cjs"
+			],
+			[
+				"bs.",
+				"src/main/resources/web/modules/bs.js"
+			],
+			[
+				"cont",
+				"src/main/resources/pages/controller.js"
+			],
+			[
+				"ver",
+				"net.shool.web/gradle/vertx.gradle"
+			],
+			[
+				"vert",
+				"net.shool.web/gradle/vertx.gradle"
+			],
+			[
+				"routes",
+				"net.shool.graph/src/main/groovy/net/shool/graph/Routes.groovy"
+			],
+			[
+				"spec",
+				"net.shool.web/src/main/resources/web/test/SpecRunner.html"
+			],
+			[
+				"java",
+				"net.shool.web/src/test/java/net/shool/web/test/integration/java/BasicIntegrationTest.java"
+			],
+			[
+				"",
+				"~/ws/hacks/shool/net.shool.graph/src/test/java/net/shool/moduletemplate/test/integration/javascript/JavaScriptIntegrationTests.java"
+			],
+			[
+				"some",
+				"net.shool.web/src/test/java/net/shool/web/test/integration/java/SomeVerticle.java"
+			],
+			[
+				"module",
+				"net.shool.graph/src/test/resources/integration_tests/javascript/moduleIntegrationTest.js"
+			],
+			[
+				"groo",
+				"net.shool.web/src/test/java/net/shool/web/test/integration/groovy/GroovyIntegrationTests.java"
+			],
+			[
+				"jasmin",
+				"net.shool.graph/src/test/resources/integration_tests/jasmine/lib/jasmine-1.3.1/jasmine.js"
+			],
+			[
+				"jasn",
+				"net.shool.web/src/main/resources/web/test/lib/jasmine-1.3.1/jasmine.js"
+			],
+			[
+				"jas",
+				"net.shool.graph/src/test/resources/integration_tests/jasmine/lib/jasmine-1.0.1/jasmine.js"
+			],
+			[
+				"bui",
+				"net.shool.graph/build.gradle"
+			],
+			[
+				"httph",
+				"net.shool.web/src/main/resources/net/HTTPHandler.js"
+			],
+			[
+				"ha",
+				"net.shool.web/src/main/resources/routes/APIRoutes.js"
+			],
+			[
+				"jsm",
+				"net.shool.graph/src/test/resources/integration_tests/javascript/resume.jsm"
+			],
+			[
+				"buil",
+				"net.shool.graph/build.gradle"
+			],
+			[
+				"inde",
+				"net.shool.web/src/main/resources/web/test/index.html"
+			],
+			[
+				"i",
+				"net.shool.web/src/test/resources/web/index.html"
+			],
+			[
+				"build.gr",
+				"net.shool.graph/build.gradle"
+			],
+			[
+				"grap",
+				"net.shool.graph/src/main/resources/net/shool/graph/GraphMain.groovy"
+			],
+			[
+				"h",
+				"net.shool.web/src/main/resources/core/HTTPHandler.js"
+			],
+			[
+				"ping",
+				"net.shool.moduletemplate/src/main/java/net/shool/moduletemplate/PingVerticle.java"
+			],
+			[
+				"mai",
+				"shool/src/main/resources/main.js"
+			],
+			[
+				"gradle.p",
+				"shool/net.shool.modtemplate/gradle.properties"
+			],
+			[
+				"ogmu",
+				"OGM/src/OGMUpdateTest.groovy"
+			],
+			[
+				"ogm",
+				"OGM/src/OGMGetTest.groovy"
+			],
+			[
+				"api",
+				"src/mods/net.shool.api/APIMain.groovy"
+			],
+			[
+				"model",
+				"mods/net.shool.api/Model.groovy"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sublime.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
