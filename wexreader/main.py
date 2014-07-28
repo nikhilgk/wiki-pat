@@ -22,6 +22,21 @@ csv.field_size_limit(sys.maxsize)
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+class Metadata:
+    def __init__(self, docTitle, categories):
+		self.docTitle = docTitle
+		self.categories = categories
+
+    def __repr__(self):
+		return str((self.docTitle, self.categories))
+
+class MetadataStore:
+    def __init__(self):
+		self.metadataMap = {}
+
+    def add(self, docID, docTitle, categories):
+		metadata = Metadata(docTitle, categories)
+		self.metadataMap[docID] = metadata
 
 # https://gist.githubusercontent.com/bogdan-ivanov/7203659/raw/inverted_index.py
 class Index:
@@ -84,14 +99,19 @@ stopwords = nltk.corpus.stopwords.words('english')
 index = Index(nltk.word_tokenize, 
   EnglishStemmer(), 
   nltk.corpus.stopwords.words('english'))
+metadata_store = MetadataStore()
 
-count = 1
+count = 0
 tsv = open("../data/subset.tsv")
 for line in csv.reader(tsv, dialect="excel-tab"): #You can also use delimiter="\t" rather than giving a dialect.
+	s = line[3]
+	result = re.finditer('(Category:[^<]*)', s)
+	categories = [m.group(0).replace('Category:','') for m in result]
+	metadata_store.add(count, line[1], categories)
+	
+
 	data = line[4]
 	# tokens = nltk.word_tokenize(data.lower())
-
-
 	# tfidf = sklearn.feature_extraction.text.TfidfTransformer()
 	# tfs = tfidf.fit_transform(tokens);
 	# print tfs
@@ -113,5 +133,6 @@ for line in csv.reader(tsv, dialect="excel-tab"): #You can also use delimiter="\
 	if count > 5:
 		break
 
-tfidfs = [index.tfidf('country', x) for x in range(0,5)]
+tfidfs = [index.tfidf('country', x) for x in range(0,6)]
 print tfidfs
+print metadata_store.metadataMap
