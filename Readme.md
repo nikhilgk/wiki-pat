@@ -15,7 +15,3 @@ Once the EC2 instance launcher, go back to the Volume tab and attach the Wikiped
 
 Here are some more details on what you could do with the data: 
 https://github.com/utcompling/applied-nlp/wiki/Spark-AWS-Exercise2#create-ebs-volume-with-wikipedia-wex-data-and-attach-it-to-the-cluster
-
-
-
-
