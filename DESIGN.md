@@ -11,8 +11,8 @@ MAP
 foreach article in articles:
 	article.categories = [cat1, cat2,...]
 	foreach token in article
-		td = token frequency in article
-		 emit (token, {category:article.categories, termfreq:td})
+		tf = token frequency in article
+		 emit (token, {category:article.categories, termfreq:tf})
 ```
  **OUTPUT**
  ```
@@ -52,7 +52,7 @@ Collect all the categories and sum them up
 
 JOB 2
 ====
-From the output of **JOB 1**, calculate the td-idf for each token for each category
+From the output of **JOB 1**, calculate the tf-idf for each token for each category
 
 
 **INPUT**
@@ -87,7 +87,7 @@ For a given Patent, find the wikipedia category that best describe that patent
 foreach token in patent
     tokens[token] = [cat1, cat2] # By looking up keys from output of JOB2
 
-## Some algorithm/heuristics to find the most relevant categories from the 'tokens' array
+## Some algorithm/heuristics to find the most relevant categories from the 'tokens' map
     
     
 ```
