@@ -19,7 +19,7 @@ foreach article in articles:
  **OUTPUT**
  ```
 ('screw', {categories:['tools', 'devices'], termfreq:10})
-('screw', {categories:['handheld tools', 'tools'], termfreq:5})
+('nail', {categories:['fastner', 'tools'], termfreq:5})
 .....
 
 ```
