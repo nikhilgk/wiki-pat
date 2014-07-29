@@ -4,8 +4,10 @@ In the first Map reduce we calculate the term frequency for each token, grouped 
 
 MAP 
 ---
-**INPUT** : articles
-
+**INPUT** 
+```
+articles
+```
 **Pseudocode:**
 ```
 foreach article in articles:
@@ -16,11 +18,10 @@ foreach article in articles:
 ```
  **OUTPUT**
  ```
- ('screw', [
-		{categories:['tools', 'devices'], termfreq:10}
-		{categories:['handheld tools', 'tools'], termfreq:5}
-		.....
-)
+('screw', {categories:['tools', 'devices'], termfreq:10})
+('screw', {categories:['handheld tools', 'tools'], termfreq:5})
+.....
+
 ```
 REDUCE 
 ---
