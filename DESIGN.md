@@ -25,7 +25,9 @@ foreach article in articles:
 REDUCE 
 ---
 Collect all the categories and sum them up
+
  **INPUT**
+ 
  ```
  ('screw', [
 		{categories:['tools', 'devices'], termfreq:10}
@@ -33,7 +35,9 @@ Collect all the categories and sum them up
 		.....
 )
 ```
-**OUTPUT **
+
+**OUTPUT**
+
 ```
 [{'screw':{
 		'tools':15,
