@@ -6,7 +6,7 @@ from nltk.stem.snowball import EnglishStemmer
 from mrjob.job import MRJob
 
 # https://gist.githubusercontent.com/bogdan-ivanov/7203659/raw/inverted_index.py
-class Index(MRJob):
+class DocTerms(MRJob):
     """ Inverted index datastructure """
     stemmer = EnglishStemmer()
     stopwords = set(nltk.corpus.stopwords.words('english'))
@@ -27,16 +27,16 @@ class Index(MRJob):
 			if token in self.stopwords:
 				continue
 			token = self.transform(token)
-			yield token, data[1]	
+			yield data[1], token
 
-    def reducer(self, token, doc_titles):
+    def reducer(self, doc_title, tokens):
 		index = {}
-		for doc_title in doc_titles:
-			if doc_title in index:
-				index[doc_title] += 1
+		for token in tokens:
+			if token in index:
+				index[token] += 1
 			else:
-				index[doc_title] = 1
-		yield token, index 
+				index[token] = 1
+		yield doc_title, index
 		
 if __name__ == '__main__':
-    Index.run()	
+    DocTerms.run()	
