@@ -1,11 +1,11 @@
 Schema for cathierarchy table/cathierarchy.csv:
 
 Field:			Type:
-page_id			int(8) unsigned
-page_title		varbinary(255)
-category_title		varbinary(255)               
-page_type		enum('page','subcat','file') -- defaults to 'page'
-page_is_redirect	tinyint(1) unsigned 
+page id			int(8) unsigned
+page title		varbinary(255)
+category title		varbinary(255)               
+page type		enum('page','subcat','file') -- defaults to 'page'
+page is redirect	tinyint(1) unsigned 
 
 
 
