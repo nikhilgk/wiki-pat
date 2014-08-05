@@ -1,3 +1,19 @@
+Schema for cathierarchy table/cathierarchy.csv:
+
+Field:			Type:
+page_id			int(8) unsigned
+page_title		varbinary(255)
+category_title		varbinary(255)               
+page_type		enum('page','subcat','file') -- defaults to 'page'
+page_is_redirect	tinyint(1) unsigned 
+
+
+
+
+
+
+
+
 Setup the datasource on AWS
 
 The data set of interest is here : http://aws.amazon.com/datasets/2345
