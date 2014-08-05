@@ -1,17 +1,14 @@
 Schema for cathierarchy table/cathierarchy.csv:
 
-Field:			Type:
-page id			int(8) unsigned
-page title		varbinary(255)
-category title		varbinary(255)               
-page type		enum('page','subcat','file') -- defaults to 'page'
-page is redirect	tinyint(1) unsigned 
 
-
-
-
-
-
+<table>
+<tr><td>Field:</td><td>Type:</td></tr>
+<tr><td>page_id</td><td>int(8) unsigned</td></tr>
+<tr><td>page_title</td><td>varbinary(255)</td></tr>
+<tr><td>category_title</td><td>varbinary(255)</td></tr>  
+<tr><td>page_type</td><td>enum('page','subcat','file') -- defaults to 'page'</td></tr>
+<tr><td>page_is_redirect</td><td>tinyint(1) unsigned</td></tr>
+</table>
 
 
 Setup the datasource on AWS
