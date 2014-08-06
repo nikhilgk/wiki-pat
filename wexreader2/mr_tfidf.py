@@ -1,8 +1,9 @@
-# python mr_terms.py ../data/ten.tsv --output-dir=./terms --postings_file=./postings/part-00000 --no-output --category_count=./categories/part-00000 
+# python mr_tfidf.py.py ../data/ten.tsv --output-dir=./terms --postings_file=./postings/part-00000 --no-output --category_count=./categories/part-00000 
 import re, sys
 import math
 from mr_base import BaseMR
 import mrjob
+import collections
 
 class TermsList(BaseMR):
 
@@ -49,6 +50,7 @@ class TermsList(BaseMR):
 
     def reducer(self, category, tokens):
         index = {}
+
         for token in tokens:
             if token in index:
                 index[token] += 1
@@ -60,10 +62,26 @@ class TermsList(BaseMR):
                 idf = math.log(self.category_count * 1.0 / self.postings_list[token])
                 tf = index[token] 
                 tfidf = tf * idf
-                # print token
-                # tfidfs[token] = tfidf
-                tfidfs[token] = "{0:.2f}".format(tfidf)
-        yield category, tfidfs
+                tfidfs[token] = tfidf
+                # tfidfs[token] = "{0:.2f}".format(tfidf)
+        #Sort the dictionary by the tfidf
+        tfidfs  = collections.OrderedDict(sorted(tfidfs.items(), key=lambda t: t[1], reverse=True))        
+        
+        # 10% of items or atleast 10 items
+        count=max( int(len(tfidfs)*0.1), 10) 
+        filtererd_tfidfs = {}
+        for k,v in tfidfs.items():
+            # print k, ' : ', v
+            filtererd_tfidfs[k]=v
+            count -= 1
+            if count == 0:
+                break 
+
+        yield category, filtererd_tfidfs
 
 if __name__ == '__main__':
     TermsList.run()    
+
+import itertools
+
+dict(itertools.islice(dict2.iteritems(), 0, 5)) 
