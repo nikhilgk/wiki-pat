@@ -1,5 +1,7 @@
-Schema for cathierarchy table/cathierarchy.csv:
+The cathierarchy table gives a page_id and page_title and that page's categories in category_title. Some pages will also be categories, so connecting all links will result in a hierarchy of categories.
 
+
+Schema for cathierarchy table/cathierarchy.csv:
 
 <table>
 <tr><td>Field:</td><td>Type:</td></tr>
