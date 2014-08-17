@@ -29,7 +29,7 @@ class BaseMR(MRJob):
     def tokenize(self, data, yielder):
         self.counter += 1
         print str(self.counter)+' : ' + data[1]
-        article = data[4].decode('ascii',errors='ignore').lower()
+        article = data[4].decode('ascii', 'ignore').lower()
         # tokens = nltk.word_tokenize(article)
         tokens = re.findall(self.pattern, article)
 
@@ -57,6 +57,7 @@ class BaseMR(MRJob):
                 continue
             token = self.transform(token)
             uniquetokens.add(token)
+        print '-------------'+str(len(uniquetokens))
         for token in uniquetokens:
             resp = yielder(token)
             if isinstance(resp, list):

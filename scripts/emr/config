@@ -1,0 +1,4 @@
+PRJROOT=$(pwd)/../..
+DATAFILE=tiny.tsv
+OUTPUTROOT=s3://mids/output
+INPUTROOT=s3://mids/input

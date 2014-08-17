@@ -1,6 +1,7 @@
 # python mr_postings.py ../data/ten.tsv --output-dir=./postings  --no-output
 import re
 from mr_base import BaseMR
+from mrjob.step import MRStep
 
 class PostingsList(BaseMR):
 
@@ -29,6 +30,16 @@ class PostingsList(BaseMR):
         # yield token, sum(1 for _ in categories)
         yield token, len(set(categories))
 
+    def reducer2(self, token, categories_sum):
+        # yield token, sum(1 for _ in categories)
+        yield token, sum(categories_sum)
+
+    def steps(self):
+        return [
+            MRStep(mapper=self.mapper,
+                    reducer=self.reducer),
+            MRStep(reducer=self.reducer2)
+        ]
 
 if __name__ == '__main__':
     PostingsList.run()    
